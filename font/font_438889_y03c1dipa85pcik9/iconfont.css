@@ -1,4 +1,11 @@
-
+@font-face {
+  font-family: 'iconfont';  /* project id 438898 */
+  src: url('http://at.alicdn.com/t/font_438898_z04ej9hozv45nrk9.eot');
+  src: url('http://at.alicdn.com/t/font_438898_z04ej9hozv45nrk9.eot?#iefix') format('embedded-opentype'),
+  url('http://at.alicdn.com/t/font_438898_z04ej9hozv45nrk9.woff') format('woff'),
+  url('http://at.alicdn.com/t/font_438898_z04ej9hozv45nrk9.ttf') format('truetype'),
+  url('http://at.alicdn.com/t/font_438898_z04ej9hozv45nrk9.svg#iconfont') format('svg');
+}
 @font-face {font-family: "iconfont";
   src: url('iconfont.eot?t=1507777669659'); /* IE9*/
   src: url('iconfont.eot?t=1507777669659#iefix') format('embedded-opentype'), /* IE6-IE8 */
